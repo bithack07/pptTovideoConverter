@@ -1,0 +1,60 @@
+Welcome to Oracle University's Free Training and Certification Program for September 2021. This program offers training and certification in Oracle Cloud Infrastructure, Application Development, and Data Management. Let's dive into the details of this program.
+
+Are you interested in expanding your knowledge of Oracle technology solutions? Look no further than Oracle University's Free Training and Certification Program. This comprehensive program offers access to the entire digital training catalog for OCI, Application Development, and Data Management, with over 500 hours of content. You'll also have access to learning paths for OCI Foundations, OCI Architect Associate, OCI Operations, OCI Architect Professional, and more. Plus, until December 31, 2021, you can take advantage of free certification exams for 15 associated certifications. The program also includes exam preparation courses, skill checks, practice exams, and live sessions. Don't miss out on this opportunity to enhance your skills and knowledge. Start learning for free today!
+
+Looking to enhance your skills in Oracle Cloud Infrastructure, Application Development, and Data Management? Oracle offers a wide range of courses and certifications to help you achieve your goals. With a variety of learning paths to choose from, you can become proficient in Oracle Cloud Infrastructure Foundations, learn how to design and deploy highly available, scalable, and secure OCI solutions, develop skills to manage and operate OCI services, and master advanced OCI architectural concepts and techniques. You can also learn how to manage and optimize Oracle Autonomous Database, build and manage engaging digital experiences, develop conversational interfaces, build and deploy cloud-native applications, and much more. 
+
+And here's some great news: between September 8, 2021, 12:00 AM GMT, and December 31, 2021, 11:59 PM GMT, customers are entitled to three (3) free certification exam attempts per exam. To qualify, you must take at least 30 minutes of training for the first attempt, 2 hours for the second attempt, and 4 hours for the third attempt. So, what are you waiting for? Visit https://education.oracle.com/oracle-oci-certification to view all available courses and start your journey towards becoming an Oracle expert today!
+
+"Welcome to the appendix section of our training program. In this section, we will guide you on how to activate your training and provide you with details on the course content. To activate your training, simply follow the instructions provided in your welcome email or contact our support team for assistance. As for the course content, you will have access to a variety of modules and resources that are designed to help you achieve your learning objectives. These include interactive videos, quizzes, and practical exercises that will help you apply what you have learned. We encourage you to take advantage of all the resources available to you and to reach out to our team if you have any questions or concerns. Thank you for choosing our training program and we wish you all the best in your learning journey."
+
+To activate your free training and certification, follow these simple steps:
+
+Step 1: Visit education.oracle.com/oci to view the program details and choose a learning path that suits your needs. You can also directly browse the available free digital training courses, including the Oracle Cloud Infrastructure Learning Subscription, Data Management Learning Subscription, and Application Development Learning Subscription.
+
+Step 2: Create an Oracle Single-Sign On (SSO) account or sign in to your existing Oracle SSO account when prompted.
+
+Step 3: Confirm the Terms & Conditions to proceed.
+
+Step 4: Start learning and take advantage of the free training courses available to you.
+
+Step 5: Once you're ready, book your free exam via the learning portal and take the next step in your career.
+
+Slide 6 provides information about the free certifications available until December 31, 2021, through OU Training and Certifications. There are five learning paths available, each with a different certification and duration. 
+
+The first learning path is the OCI Foundation Associate, which provides foundational knowledge of core cloud computing concepts and an understanding of Oracle Cloud Infrastructure Cloud Services. This learning path is ideal for candidates with technical and non-technical backgrounds who aspire to gain skills in OCI concepts. The certification for this learning path is the Oracle Cloud Infrastructure Foundations Associate Certification, and the duration is 7+ hours.
+
+The second learning path is the OCI Architect (Associate), which focuses on developing certification-level skills on topics such as cloud computing concepts, regions, availability domains, OCI terminology and services, networking, databases, load balancing, IAM, FastConnect, VPN, Compartments, and Terraform. The certification for this learning path is the Oracle Cloud Infrastructure Architect Associate Certification, and the duration is 13+ hours.
+
+The third learning path is the OCI Cloud Operations Associate, which focuses on designing Cloud-scale agility on OCI. It develops skills to automate cloud tasks, tune performance, troubleshoot, storage operations, OS management, traffic management, manage cost, manage security and compliance policies. It also covers topics such as data retention and archival, creating shell scripts with the Command Line Interface (CLI), OCI pricing, billing, and support model, Terraform, Ansible, OCI Resource Manager, cost analysis, and budgets. The certification for this learning path is the OCI Cloud Operations Associate Certification, and the duration is 10+ hours.
+
+The fourth learning path is the OCI Architect (Professional), which focuses on developing the skills to become an Architect on Oracle Cloud Infrastructure with in-depth knowledge of Cloud computing, Migration, Networking, Storage, Databases, Compute, Security, Functions, Containers, and other OCI services. The certification for this learning path is the Oracle Cloud Infrastructure Architect Professional Certification, and the duration is 16+ hours.
+
+The fifth learning path is the Autonomous Database Specialist, which focuses on helping DBAs take their knowledge to the next level and learn to deploy and administer Autonomous databases. It covers topics such as Autonomous Database on Shared Infrastructure, Autonomous Database on Dedicated Infrastructure, Managing and Monitoring Autonomous Database, Autonomous Database Tools, Developing on Autonomous Database, and Migrating to Autonomous Database. The certification for this learning path is the Oracle Autonomous Database Specialist Certification, and the duration is 8+ hours.
+
+'Are you looking to enhance your skills and knowledge in Oracle Cloud Native services? Take advantage of the 10 additional free certifications available until December 31, 2021, through OU Training and Certifications. These certifications include OCI Developer (Associate), Application Integration Specialist, Sites Developer, Digital Assistant Developer, and Cloud App Developer. 
+
+The OCI Developer (Associate) learning path equips developers with the essential skills needed to adopt and efficiently leverage Oracle Cloud Native services that run on Oracle Cloud Infrastructure. The certification for this learning path is Oracle Cloud Developer 2021 Associate, and the duration is 8+ hours.
+
+The Application Integration Specialist learning path strings together the key courses that help you embark on a successful journey to master the Oracle Integration Cloud Services. The certification for this learning path is Oracle Cloud Platform Application Integration 2021 Specialist, and the duration is 38+ hours.
+
+The Sites Developer learning path provides the essential skills needed for a career in Sites development on Cloud. The certification for this learning path is Oracle Cloud Platform Content and Experience 2020 Specialist, and the duration is 12+ hours.
+
+The Digital Assistant Developer learning path teaches you how to build AI-powered digital assistants and skills, create intents and define entities, use the Bot Builder to create the dialog flow using our variant of YAML, OBotML, integrate Q&A service to the skills, create and manage channels to carry the chat back and forth, and connect to agents through Agent Integration. The certification for this learning path is Oracle Cloud Platform Digital Assistant 2021 Specialist, and the duration is 7+ hours.
+
+The Cloud App Developer learning path teaches you how to implement Build Process and Project Management using Visual Builder Studio (VBS), configure Automated Build and Deployment using VBS, use Visual Builder's low-code development approach to create and host web applications, use Mobile Hub to develop backends, custom APIs, users, notifications, and other constructs, leverage Oracle WebLogic Server for OCI for application deployment, use Oracle Container Engine for Kubernetes to deploy cloud-native applications, and leverage serverless and elastic architecture of Oracle Functions. The certification for this learning path is Oracle Cloud Platform Application Development 2021 Specialist, and the duration is 53+ hours.'
+
+"Are you looking to enhance your skills and knowledge in cloud computing? Then, take advantage of the 10 additional free certifications available until December 31, 2021, through the OU Training and Certification Program. Let's take a look at some of the learning paths available. 
+
+First, we have the Cloud Security Administrator learning path, which provides a comprehensive identity and security solution for secure access and monitoring of your hybrid cloud environment. This path addresses all your IT governance and compliance requirements, and upon completion, you will earn the Oracle Cloud Platform Identity and Security Management 2020 Specialist certification. The duration of this course is 23+ hours.
+
+Next, we have the Oracle Management Cloud Administrator learning path, which helps you master the Oracle Management Cloud. You will learn to monitor real-time performance of packaged applications, databases, exadata, and cross-tier infrastructure performance. Upon completion, you will earn the Oracle Cloud Platform Systems Management 2021 Specialist certification. The duration of this course is 22+ hours.
+
+If you're interested in business analytics, we have the Business Analytics Expert learning path. This course teaches you to create analyses and dashboards, load and model data, and configure Business Intelligence Cloud Service on mobile. Upon completion, you will earn the Oracle Cloud Platform Enterprise Analytics 2021 Specialist certification. The duration of this course is 39+ hours.
+
+For those interested in database migration and integration, we have the Oracle Cloud Database Migration and Integration Specialist learning path. This course teaches you to migrate to Autonomous Database using Rman, Data Pump, and Cloning to Migrate to OCI. You will also learn to migrate to OCI using SQL Developer, Cloud Backup, and GoldenGate, understand your source and target database options, and migrate with Oracle Zero Downtime Migration (ZDM), Data Integration. Upon completion, you will earn the Oracle Cloud Database Migration and Integration 2021 Specialist certification. The duration of this course is 5+ hours.
+
+Lastly, we have the Oracle Cloud Database Services Specialist learning path. This course teaches you to administer Database Cloud Service on Bare Metal and Virtual Machine DB Systems, Exadata Cloud Service, Exadata Cloud@Customer, MySQL Database Service, and NoSQL Database Service, and External Database Service. Upon completion, you will earn the Oracle Cloud Database Services Specialist 2021 certification. The duration of this course is 8+ hours. 
+
+So, what are you waiting for? Enroll in these courses and earn your certifications for free before December 31, 2021, and take your cloud computing skills to the next level!"
+

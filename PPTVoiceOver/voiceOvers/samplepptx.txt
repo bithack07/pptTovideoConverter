@@ -1,0 +1,4 @@
+'Welcome to St. Cloud Technical College. We are excited to have you here and look forward to providing you with a quality education. Our college offers a variety of programs and resources to help you succeed in your academic and career goals. We hope you enjoy your time here and take advantage of all that St. Cloud Technical College has to offer.'
+
+Welcome to this sample slide. In this slide, we have some important information to share with you. Firstly, we have an outline of bulleted points that will help you understand the key points of this presentation. Secondly, we have an option to print PPT files as handouts. This is a great feature that allows you to print multiple slides on one page, making it easier to distribute copies of your presentation. To print handouts, simply go to the PRINT option, select PRINT WHAT, and then choose HANDOUTS. It's that easy!
+
